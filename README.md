@@ -35,10 +35,9 @@ Physical books in cyber security that I want to read.
 + 24 deadly sins of software security
 
 # Books on wishlist
-Roman Zaikin books: 
-1. Cyber and Hacking in the Worlds of Blockchain and Crypto book. 
-2. Cyber web 
-3. Cyber network
+1. Cyber and Hacking in the Worlds of Blockchain and Crypto book, Roman Zaikin
+2. Cyber web, Roman Zaikin
+3. Cyber network, Roman Zaikin
 
 4. The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
