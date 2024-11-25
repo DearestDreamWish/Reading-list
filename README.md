@@ -1,5 +1,5 @@
 # Read-list
-Physical books in that I want to read
+Physical books in cyber security that I want to read.
 
 # Books that I own.
 + EC-Council computer forensics investigating file and operating systems, wireless networks, and storage 2. edition
