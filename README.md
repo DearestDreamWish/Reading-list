@@ -1,7 +1,7 @@
 # Read-list
 Physical books in cyber security that I want to read.
 
-# Books that I own.
+# Books that I own
 + EC-Council computer forensics investigating file and operating systems, wireless networks, and storage 2. edition
 + EC-Council computer forensics investigating network intrusions and cybercrime 2. edition
 + Wireshark network analysis the official wireshark certified network analyst study guide
