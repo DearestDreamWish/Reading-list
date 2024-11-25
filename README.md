@@ -1,4 +1,4 @@
-# Read-list
+# Reading-list
 Physical books in cyber security that I want to read.
 
 # Books that I own
